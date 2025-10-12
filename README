@@ -1,0 +1,16 @@
+# Nasser Bot - GCC Countries Information Assistant
+
+A rule-based chatbot providing comprehensive information about GCC (Gulf Cooperation Council) countries using natural language processing. This Python-based assistant offers detailed data about Saudi Arabia, UAE, Qatar, Kuwait, Oman, and Bahrain, including demographics, economies, and cultural information. Built with NLTK for natural language processing, the bot understands conversational queries and provides instant, accurate responses about the Gulf region. Features include intelligent pattern matching, efficient data retrieval algorithms, and an intuitive user interface. Developed during the TeckStride program, this project demonstrates practical implementation of NLP techniques, rule-based AI systems, and structured data management. The chatbot serves as both an educational tool for learning about Arabian Gulf countries and a technical demonstration of conversational AI fundamentals.
+
+## 🛠️ Technologies Used
+- **Python** - Core programming language
+- **NLTK** - Natural Language Toolkit for text processing
+- **Rule-Based AI** - Pattern matching and response generation
+- **Data Structures** - Efficient information organization
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/Bader-Aljaberi/Nasser-Bot.git
+cd Nasser-Bot
+pip install nltk
+python nasser_bot.py
