@@ -31,7 +31,7 @@ A smart chatbot specialized in providing information about GCC countries (Bahrai
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Bader-Aljaberi/nasser-bot-gcc-assistant.git
-cd nasser-bot-gcc-assistant````**
+cd nasser-bot-gcc-assistant
 
 ### 2. Backend Setup
 ```bash
