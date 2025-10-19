@@ -31,16 +31,16 @@ A smart chatbot specialized in providing information about GCC countries (Bahrai
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Bader-Aljaberi/nasser-bot-gcc-assistant.git
-cd nasser-bot-gcc-assistant````
+cd nasser-bot-gcc-assistant
 
 ### 2. Backend Setup
 ```bash
 cd backend
-npm install````
+npm install
 
 ### 3. Environment Configuration
 ```bash
-OPENROUTER_API_KEY=your_api_key_here````
+OPENROUTER_API_KEY=your_api_key_here
 
 ### 4. Start the Server
 ```bash
@@ -48,7 +48,7 @@ npm start````
 
 ### 5. Access the Application
 ```bash
-http://localhost:4809````
+http://localhost:4809
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for complete details.
