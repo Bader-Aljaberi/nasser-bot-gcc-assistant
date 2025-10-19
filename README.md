@@ -36,7 +36,7 @@ cd nasser-bot-gcc-assistant
 ### 2. Backend Setup
 ```bash
 cd backend
-npm install````**
+npm install
 
 ### 3. Environment Configuration
 ```bash
