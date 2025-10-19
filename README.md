@@ -40,15 +40,15 @@ npm install
 
 ### 3. Environment Configuration
 ```bash
-OPENROUTER_API_KEY=your_api_key_here````**
+OPENROUTER_API_KEY=your_api_key_here
 
 ### 4. Start the Server
 ```bash
-npm start````**
+npm start
 
 ### 5. Access the Application
 ```bash
-http://localhost:4809````**
+http://localhost:4809
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for complete details.
