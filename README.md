@@ -36,21 +36,26 @@ A smart chatbot specialized in providing information about GCC countries (Bahrai
 git clone https://github.com/Bader-Aljaberi/nasser-bot-gcc-assistant.git
 cd nasser-bot-gcc-assistant
 
+### 2. Backend Setup
 cd backend
 npm install
 
+### 3. Environment Configuration
+Create a .env file and add your API key:
 OPENROUTER_API_KEY=your_api_key_here
 
+### 4. Start the Server
 npm start
 
+### 5. Access the Application
 http://localhost:4809
 
-📄 License
+### License
 
 This project is licensed under the MIT License — see the LICENSE file for complete details.
 
-👤 Author
-Bader Aljaberi
+### Author
+## Bader Aljaberi
 
 GitHub: @Bader-Aljaberi
 
